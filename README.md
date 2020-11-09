@@ -1,2 +1,4 @@
 # Tours-of-heroes
-angular app Tours of Heroes
+angular Tours of Heroes sample app 
+* ng practise 
+
